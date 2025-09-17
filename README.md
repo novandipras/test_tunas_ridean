@@ -1,1 +1,1 @@
-# test_tunas_ridean
+run on VS code or android studio
